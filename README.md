@@ -21,7 +21,7 @@ This project aims at providing cities with the tools to predict and mitigate the
 </details>
 
 <details>
-<summary><b>Property and Infrastructure</b><img src="./icons/human.svg"></summary>
+<summary><b>Property and Infrastructure</b><img src="./icons/building.svg"></summary>
 <b>Buildings (residential, commercial and industrial)</b>
 	<ul>
 		<li> Assessing building damage<br>
@@ -105,11 +105,11 @@ Brunelleschi Dome use case: [CUPOLA](CUPOLA)<br> 	<span style="color:blue">Fiamm
 </details>
 
 <details>
-<summary><b>Environment</b><img src="./icons/crop.svg"></summary>
-<b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
-<b>Pollution and contamination of water, air, soil</b><br>
-<b>Habitat destruction for wildlife</b>
-</details>
+#<summary><b>Environment</b><img src="./icons/crop.svg"></summary>
+#<b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
+#<b>Pollution and contamination of water, air, soil</b><br>
+#<b>Habitat destruction for wildlife</b>
+#</details>
 
 
    
