@@ -1,6 +1,6 @@
 <h2>Elements at risk</h2>
 <details>
-<summary><b>Human Life and Health</b><img src="./icons/human.svg"></summary>
+<summary><img src="./icons/human.svg"><b>Human Life and Health</b></summary>
 Advanced technologies combining machine learning, satellite data, and remote sensing can generate actionable tools for urban resilience to monitor, predict, and mitigate health risks. 
 	<ul>
 		<li>Quantifying and evaluating the heat-stress hazard variability<br>
@@ -21,7 +21,7 @@ This project aims at providing cities with the tools to predict and mitigate the
 </details>
 
 <details>
-<summary><b>Property and Infrastructure</b><img src="./icons/building.svg"></summary>
+<summary><img src="./icons/building.svg"><space><b>Property and Infrastructure</b></summary>
 <b>Buildings (residential, commercial and industrial)</b>
 	<ul>
 		<li> Assessing building damage<br>
@@ -84,7 +84,7 @@ Use case in Southern Italy: [ObserbotCI](ObserbotCI) <br>
 </details>
 
 <details>
-<summary><b>Cultural Heritage</b><img src="./icons/church.svg"></summary>
+<summary><img src="./icons/church.svg"><space><b>Cultural Heritage</b></summary>
 	The preservation of historical heritage is a key aspect ... Advanced techniques like sensor data mining and machine learning can be used to monitor and maintain the structural integrity of historical buildings and infrastructure. By analyzing historical monitoring data, these technologies can predict the structural behavior of a critical historical building, ensuring its long-term stability. 
 <br>
 Brunelleschi Dome use case: [CUPOLA](CUPOLA)<br> 	<span style="color:blue">Fiammetta Menchetti UNIFI </span></li>
@@ -93,7 +93,7 @@ Brunelleschi Dome use case: [CUPOLA](CUPOLA)<br> 	<span style="color:blue">Fiamm
 
 
 <details>
-<summary><b>Economy and Food supply</b><img src="./icons/crop.svg"></summary>
+<summary><img src="./icons/crop.svg"><space><b>Economy and Food supply</b></summary>
 	<b>Damage of the agricultural industry </b><br>
 		The sustainable management of land use plays a significant role in urban planning, influencing how land is allocated for residential, commercial, industrial, and recreational purposes. 
 
@@ -104,12 +104,12 @@ Brunelleschi Dome use case: [CUPOLA](CUPOLA)<br> 	<span style="color:blue">Fiamm
 	</ul>
 </details>
 
-<details>
-#<summary><b>Environment</b><img src="./icons/crop.svg"></summary>
-#<b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
-#<b>Pollution and contamination of water, air, soil</b><br>
-#<b>Habitat destruction for wildlife</b>
-#</details>
+<!---
+ <summary><b>Environment</b><img src="./icons/crop.svg"></summary> <b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
+ <b>Pollution and contamination of water, air, soil</b><br>
+<b>Habitat destruction for wildlife</b>
+-->
+
 
 
    
