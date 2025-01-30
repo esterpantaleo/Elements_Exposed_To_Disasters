@@ -69,7 +69,6 @@
 	</ul>
 	<b>Critical Infrastructures</b><br>	
 	Critical infrastructures are the backbone of modern society, supporting everything from daily necessities to advanced technologies. Ensuring the resilience of these systems is vital for maintaining public safety, economic stability, and national security. Disruptions to critical infrastructures—such as power grids, transportation networks, or water supply systems—can have far-reaching consequences. Key infrastructure sectors include Transportation Networks (roads, bridges, railways, airports, and ports that enable the movement of goods and people), Power Distribution Networks (Energy grids and power plants that supply electricity), Water Supply Systems (Water distribution and wastewater treatment facilities).
-
 	<ul>
 		<li>Multi Hazards CI - The Multi-Hazard Model integrates Geographic Information Systems (GIS) and Multi-Criteria Evaluation (MCE) techniques to assess the risk to critical infrastructures across Italy, focusing on sectors like transportation, gas, and electric power. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5fd70d1d-4550-4a23-a8ca-612944470f57%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251527178&web=1" target="_blank">PPT</a> <br>
 <span style="color:blue"> ENEA</span></li>
@@ -95,7 +94,6 @@
 	<summary><img src="./icons/crop.svg"><space><b>Economy and Food supply</b></summary>
 	<b>Damage of the agricultural industry </b><br>
 	The sustainable management of land use plays a significant role in urban planning, influencing how land is allocated for residential, commercial, industrial, and recreational purposes. 
-
 	<ul>
 		<li>Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
 <span style="color:blue">Roberto Bellotti UNIBA </span></li>
