@@ -33,7 +33,6 @@
 		This project proposes a workflow that effectively outlines the presence of both subsidence and uplifting. These phenomena deserve continuous monitoring, both for environmental and infrastructural purposes. Using persistent interferometry collected from satellites and clustering algorithms we highlight the presence of homogeneous patterns using an  hypothesis testing procedure to evaluate and establish the presence of significant local spatial correlations (the LISA method). The designed workflow ensures the retrieval of homogeneous clusters and a reliable anomaly detection. <br>
 		Sibari (CS) and Metaponto (MT) use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B30293f2f-7066-498b-af21-efa262703e53%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252108441&web=1" target="_blank">PPT</a><br>
 		<span style="color:blue"> Roberto Bellotti UNIBA </span></li>
-
    	</ul></li>
 	<b> Roads, bridges and transportation systems</b>
 	<ul>
@@ -55,9 +54,7 @@
 		The project focuses on the resilience of the Italian National Transmission Grid (NTG) managed by TERNA under climate change scenarios. It aims to analyze geotechnical hazards, such as landslides and volumetric collapses, and meteo-climatic extremes, including cyclones and intense rainfall events, that could affect the NTG over the next two to three decades. 
 		<ul>
 			<li>Academic Impact: Advances in decadal climate predictability and the performance of regional climate models. </li>
-
 			<li>Economic Impact: Optimized climate adaptation investments for critical infrastructure. </li>
-
 			<li>Social Impact: Secured energy supply for vulnerable communities facing extreme climatic events. </li>
 		</ul>
 		<span style="color:blue">ENEA, Loredana Bellantuono UNIBA </span></li>
@@ -77,7 +74,7 @@
 		<li>Multi Hazards CI - The Multi-Hazard Model integrates Geographic Information Systems (GIS) and Multi-Criteria Evaluation (MCE) techniques to assess the risk to critical infrastructures across Italy, focusing on sectors like transportation, gas, and electric power. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5fd70d1d-4550-4a23-a8ca-612944470f57%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251527178&web=1" target="_blank">PPT</a> <br>
 <span style="color:blue"> ENEA</span></li>
 		<li>ObserbotCI - Using web data to track disruptions in critical infrastructure services, providing real-time insights on infrastructure status<br>
-Use case in Southern Italy:  <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba0788ffa-5357-456c-8d63-c222ae60abe7%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252658059&web=1"target="_blank">PPT</a> <br>
+		Use case in Southern Italy: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba0788ffa-5357-456c-8d63-c222ae60abe7%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252658059&web=1" target="_blank">PPT</a> <br>
 	    	<span style="color:blue">ENEA </span></li>
 		<li>YouExpert - Real-time field data collection and analysis, assessment of critical systems. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B650f0313-5278-44e6-9be3-6defac04983d%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251363697&web=1"  target="_blank">PPT</a> <br>
 		<span style="color:blue">ENEA </span></li>
