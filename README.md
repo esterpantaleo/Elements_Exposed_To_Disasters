@@ -1,6 +1,6 @@
 <h2>Elements at risk</h2>
 <details>
-<summary><img src="./icons/human.svg"><b>Human Life and Health</b></summary>
+<summary><img src="./icons/human.svg"><space><b>Human Life and Health</b></summary>
 Advanced technologies combining machine learning, satellite data, and remote sensing can generate actionable tools for urban resilience to monitor, predict, and mitigate health risks. 
 	<ul>
 		<li>Quantifying and evaluating the heat-stress hazard variability<br>
@@ -99,7 +99,7 @@ Brunelleschi Dome use case: [CUPOLA](CUPOLA)<br> 	<span style="color:blue">Fiamm
 
 <ul><li>Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>BAT province use case: [Sustainable Farming](Sustainable Farming) <br>
 <span style="color:blue">Roberto Bellotti UNIBA </span></li>
-		<li>Abruzzo use case: [DICEAA_UNIVAQ_Crop_vs_Climatic_analysis_Abruzzo](DICEAA_UNIVAQ_Crop_vs_Climatic_analysis_Abruzzo)
+		<li>Abruzzo use case: [DICEAA_UNIVAQ_Crop_vs_Climatic_analysis_Abruzzo](DICEAA_UNIVAQ_Crop_vs_Climatic_analysis_Abruzzo)  (PPT)(https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF)
 <span style="color:blue"> <br>Vincenzo Guerriero, Anna Rita Scorzini, Marco Tallini UNIVAQ </span></li>
 	</ul>
 </details>
