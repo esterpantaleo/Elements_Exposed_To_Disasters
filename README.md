@@ -101,7 +101,9 @@
 	<ul>
 		<li>Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
 <span style="color:blue">Roberto Bellotti UNIBA </span></li>
-		<li>Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
+		<li>The sensitivity of the agricultural production system to short- and long-term climate variations significantly affects the availability and prices of food resources, raising relevant issues of sustainability and food security. 
+		To evaluate the vulnerability of crop yield to short-term climate fluctuations and to determine whether it changes over time, UNIAQ conducted a statistical analysis focusing on main crops in the Abruzzo region (central Italy), as case studies, such as wheat, olive and grape.<br>
+		Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
 <span style="color:blue"> Marco Tallini UNIVAQ </span></li>
 	</ul>
 </details>
