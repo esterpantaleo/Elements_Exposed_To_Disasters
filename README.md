@@ -35,7 +35,10 @@
 		Sibari (CS) and Metaponto (MT) use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B30293f2f-7066-498b-af21-efa262703e53%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252108441&web=1" target="_blank">PPT</a><br>
 		<span style="color:blue"> Roberto Bellotti UNIBA </span></li>
    	</ul></li>
-	<b> Roads, bridges and transportation systems</b>
+	<b> Roads, bridges and transportation systems</b><br>
+	Critical infrastructures are essential for social well-being, industrial production, and economic stability, with bridges and viaducts playing a crucial role in transportation networks. 
+	However, aging bridges present a significant challenge for urban resilience, requiring continuous monitoring and proper maintenance to ensure their durability, efficiency, and safety. 
+	Effective bridge classification and structural health monitoring are therefore vital for timely interventions, risk mitigation, and long-term preservation.
 	<ul>
 		<li>Classifying bridges<br>
 		BridgesClassification - <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
