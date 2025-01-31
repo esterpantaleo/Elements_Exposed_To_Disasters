@@ -13,15 +13,16 @@
 		</details>
 		<details  style="margin-left: 40px;">
 			<summary>Social impact</summary> 
-			Populations living in cities are particularly vulnerable to non-optimal temperatures, urban areas often experience significantly warmer ambient temperatures compared to surrounding rural regions. As a result of this project, daily maps of Tmax and Tmin for Tuscany for the year 2022 have been produced.<br>
-			Tuscany use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4e5e65ba-eeb6-41fd-9e3e-6c578ed76d66%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252259565&web=1"  target="_blank">PPT</a><br>
-			<span style="color:blue"> Francesco Sera UNIFI </span>
+			Populations living in cities are particularly vulnerable to non-optimal temperatures, urban areas often experience significantly warmer ambient temperatures compared to surrounding rural regions. As a result of this project, daily maps of Tmax and Tmin for Tuscany for the year 2022 have been produced.
 		</details>
+		Tuscany use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4e5e65ba-eeb6-41fd-9e3e-6c578ed76d66%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252259565&web=1"  target="_blank">PPT</a><br>
+		<span style="color:blue"> Francesco Sera UNIFI </span>
 	</details>
 	<details  style="margin-left: 20px;">
 		<summary>Estimating air pollution concentration in urban areas</summary>
 		This project aims at providing cities with the tools to predict and mitigate the health impacts of air pollution, ultimately enhancing overall urban resilience. This research explores the use of satellite data to create a digital twin of cities, offering real-time air quality monitoring and linking pollution levels to specific health outcomes. The intermediate product is an estimator of air pollution concentration using machine learning, XAI, and remote sensing and fine-grained weather reanalysis data. <br>
-		<details  style="margin-left: 40px;">				<summary>Academic Impact</summary> 
+		<details  style="margin-left: 40px;">
+			<summary>Academic Impact</summary> 
 			Advances in decadal climate predictability and the performance of regional climate models.
 		</details>
 		<details  style="margin-left: 40px;">
