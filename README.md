@@ -1,6 +1,6 @@
 <h2>Elements at risk</h2>
 <details>
-	<summary><img src="./icons/human.svg"><space><b>Human Life and Health</b></summary>
+	<summary><img src="./icons/human.svg"><space><b>Public Health</b></summary>
 	Advanced technologies combining machine learning, satellite data, and remote sensing can generate actionable tools for urban resilience to monitor, predict, and mitigate health risks. 
 	<ul>
 		<li>Quantifying and evaluating the heat-stress hazard variability<br>
@@ -20,8 +20,8 @@
 </details>
 
 <details>
-	<summary><img src="./icons/building.svg"><space><b>Property and Infrastructure</b></summary>
-	<b>Buildings (residential, commercial and industrial)</b>
+	<summary><img src="./icons/building.svg"><space><b>Property and Critical Infrastructures</b></summary>
+	<b>Buildings</b>
 	<ul>
 		<li> Assessing building damage<br>
 		<span style="color:blue"> ENEA </span></li>
@@ -57,7 +57,7 @@
 			<li>Economic Impact: Optimized climate adaptation investments for critical infrastructure. </li>
 			<li>Social Impact: Secured energy supply for vulnerable communities facing extreme climatic events. </li>
 		</ul>
-		<span style="color:blue">ENEA, Loredana Bellantuono UNIBA </span></li>
+		<span style="color:blue">ENEA, Roberto Bellotti UNIBA </span></li>
 	</ul>
 	<b>Transportation Networks</b> <br>
 	Creating high-resolution models, assessing roads vulnerabilities, and developing strategies to fortify infrastructure against environmental hazards.
@@ -65,20 +65,8 @@
 		<li> This project develops numerical models that simulate traffic congestion and evacuation scenarios on road networks. It uses advanced algorithms (like Chebyshev polynomials) to predict and manage traffic flow during emergencies, improving evacuation efficiency in urban areas. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B0cdd2a6f-743b-4c20-9df4-6c977a84a3a3%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251635393&web=1" target="_blank">PPT</a><br>
 		<span style="color:blue">Sabrina Francesca Pellegrino POLIBA<span></li>
 	     	<li>The overarching objective of this analysis is to deepen our understanding of the road network's resilience amidst various challenges and to devise pragmatic strategies for fortifying its strength and durability. Through meticulous examination and analysis, this study endeavors to contribute to the enhancement of Italy's critical infrastructures, ensuring their capacity to withstand and recover from adversities effectively. It focuses on the national road network in relation to environmental hazards, accounting for the mobility flux between Italian cities. The project includes constructing a high-resolution road network, associating municipalities with the nearest road nodes, and transforming the network into a weighted graph based on ISTAT mobility matrix values. <br>Apulia use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B61c153a7-7d8f-4d39-834e-7e696e498849%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251557098&web=1" target="_blank">PPT</a><br>
-		<span style="color:blue"> Loredana Bellantuono UNIBA</span></li>
+		<span style="color:blue">Roberto Bellotti UNIBA</span></li>
 	</ul>
-	<b>Critical Infrastructures</b><br>	
-	Critical infrastructures are the backbone of modern society, supporting everything from daily necessities to advanced technologies. Ensuring the resilience of these systems is vital for maintaining public safety, economic stability, and national security. Disruptions to critical infrastructures—such as power grids, transportation networks, or water supply systems—can have far-reaching consequences. Key infrastructure sectors include Transportation Networks (roads, bridges, railways, airports, and ports that enable the movement of goods and people), Power Distribution Networks (Energy grids and power plants that supply electricity), Water Supply Systems (Water distribution and wastewater treatment facilities).
-	<ul>
-		<li>Multi Hazards CI - The Multi-Hazard Model integrates Geographic Information Systems (GIS) and Multi-Criteria Evaluation (MCE) techniques to assess the risk to critical infrastructures across Italy, focusing on sectors like transportation, gas, and electric power. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B5fd70d1d-4550-4a23-a8ca-612944470f57%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251527178&web=1" target="_blank">PPT</a> <br>
-<span style="color:blue"> ENEA</span></li>
-		<li>ObserbotCI - Using web data to track disruptions in critical infrastructure services, providing real-time insights on infrastructure status<br>
-		Use case in Southern Italy: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Ba0788ffa-5357-456c-8d63-c222ae60abe7%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252658059&web=1" target="_blank">PPT</a> <br>
-	    	<span style="color:blue">ENEA </span></li>
-		<li>YouExpert - Real-time field data collection and analysis, assessment of critical systems. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B650f0313-5278-44e6-9be3-6defac04983d%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251363697&web=1"  target="_blank">PPT</a> <br>
-		<span style="color:blue">ENEA </span></li>
-	</ul>
-
 </details>
 
 <details>
@@ -89,7 +77,6 @@
    
 </details>
 
-
 <details>
 	<summary><img src="./icons/crop.svg"><space><b>Economy and Food supply</b></summary>
 	<b>Damage of the agricultural industry </b><br>
@@ -98,14 +85,15 @@
 		<li>Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
 <span style="color:blue">Roberto Bellotti UNIBA </span></li>
 		<li>Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
-<span style="color:blue"> Vincenzo Guerriero, Anna Rita Scorzini, Marco Tallini UNIVAQ </span></li>
+<span style="color:blue"> Marco Tallini UNIVAQ </span></li>
 	</ul>
 </details>
 
-<!---
- <summary><b>Environment</b><img src="./icons/crop.svg"></summary> <b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
- <b>Pollution and contamination of water, air, soil</b><br>
-<b>Habitat destruction for wildlife</b>
+<details>
+	<summary><b>Environment</b><img src="./icons/crop.svg"></summary> <b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
+ 	<b>Pollution and contamination of water, air, soil</b><br>
+	<b>Habitat destruction for wildlife</b>
+</details>
 -->
 
 
