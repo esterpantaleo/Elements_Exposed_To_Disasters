@@ -36,7 +36,7 @@
 		<span style="color:blue"> Roberto Bellotti UNIBA </span></li>
    	</ul></li>
 	<b> Roads, bridges and transportation systems</b><br>
-	Critical infrastructures are essential for social well-being, industrial production, and economic stability, with bridges and viaducts playing a crucial role in transportation networks. 
+	Transportation systems are essential for industrial production, and economic stability, with bridges and viaducts playing a crucial role in transportation networks. 
 	However, aging bridges present a significant challenge for urban resilience, requiring continuous monitoring and proper maintenance to ensure their durability, efficiency, and safety. 
 	Effective bridge classification and structural health monitoring are therefore vital for timely interventions, risk mitigation, and long-term preservation.
 	<ul>
@@ -47,7 +47,10 @@
 		<span style="color:blue">ENEA</span> <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
 		<span style="color:blue">ENEA</span> </li>
 	</ul>
-	<b> Utilities </b>
+	<b> Utilities </b><br>
+	Power and water distribution networks ensure the continuous supply of electricity and clean water to households, industries, and critical services. 
+	Strengthening their resilience requires enhancing their capacity to withstand disruptions, recover quickly, and minimize service interruptions and economic losses. 
+	This can be achieved through real-time monitoring, rapid response strategies, and the integration of distribution network data, mathematical models, and data-driven analytics.
 	<ul> 
 		<li>Water supply systems<br>
 		QuakeSimFlow - Assessing how water supply systems respond to earthquakes and other natural disasters, ensuring continuous supply in times of crisis. <br><a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EdZDr_qgmG9Nl4OMl8m1B4kBXO0-4Aqk21b7Gb9ODtbmNw?e=bhK6qN"" target="_blank">PPT</a> <br> <span style="color:blue"> ENEA</span> </li>  
