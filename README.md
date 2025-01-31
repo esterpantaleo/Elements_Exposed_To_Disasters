@@ -91,9 +91,19 @@
 <details>
 	<summary><img src="./icons/church.svg"><space><b>Cultural Heritage</b></summary>
 	The preservation of historical heritage is essential to protecting cultural and architectural legacy. Advanced techniques like sensor data mining and machine learning can be used to monitor and maintain the structural integrity of historical buildings and infrastructure. By analyzing historical monitoring data, these technologies can predict the structural behavior of a critical historical building, ensuring its long-term stability. <br>
-	Brunelleschi Dome use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B16295ca5-5a64-4920-a908-c7a71646f5c5%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251341507&web=1" target="_blank">PPT</a><br>
+	<ul>
+	<li>Brunelleschi's Dome case<br>
+	Long-term project aimed at monitoring the stability of the monument and predicting its future response to distressing phenomena.
+	This study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and
+  explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
+  <ul> 
+  <li> Academic impact: first effort to apply time series models (ARIMA, VAR, Impulse Response and Transfer Functions) to static SHM 
+  <li> Economic impact: preventing financial losses associated with structural failures
+  <li> Social impact: scalable monitoring approach to safeguard cultural heritage using rigorous statistical methods.
+  </ul>
+  <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B16295ca5-5a64-4920-a908-c7a71646f5c5%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251341507&web=1" target="_blank">PPT</a><br>
 	<span style="color:blue">Fiammetta Menchetti UNIFI </span></li>
-   
+  </ul> 
 </details>
 
 
