@@ -4,7 +4,13 @@
 	Advanced technologies combining machine learning, satellite data, and remote sensing can generate actionable tools for urban resilience to monitor, predict, and mitigate health risks. 
 	<ul>
 		<li>Quantifying and evaluating the heat-stress hazard variability<br>
-		This project aims at developing a daily mean temperature map across a region at a fine spatial scale of 100 × 100 m, using machine learning algorithms that combine remote sensing (satellite) data on temperature with urbanisation and monitor station data<br>
+		The aim of this project is the assessment and evaluation of the urban heat island (UHI) effect.
+		To address this, a daily mean temperature map has been developed for Tuscany at a fine spatial scale of 100 × 100 m, using machine learning algorithms that integrate remote sensing (satellite) temperature data with urbanization and monitoring station data. 
+		A harmonized geocode database has been created by combining Earth Observation (EO) satellite data, ground-monitoring stations, and other spatiotemporal predictors for Tuscany from 2003 to 2022.<br>
+		<ul>
+		<li> Academic impact: two-stage approach utilizing machine learning algorithms (gradient-boosted trees). In the first stage, missing moderate-resolution land surface temperature data from MODIS were imputed using spatiotemporal predictors (e.g., solar geometry and topography). In the second stage, spatiotemporal variations in observed ground-based Tmax and Tmin air temperature data were modeled at a 100 × 100 m resolution across Tuscany, incorporating stage-1 MODIS data and a range of variables, including topography, solar geometry, land cover, population, meteorological parameters derived from ERA5-land, and the Normalized Difference Vegetation Index (NDVI).
+		<li> Social impact: populations living in cities are particularly vulnerable to non-optimal temperatures, urban areas often experience significantly warmer ambient temperatures compared to surrounding rural regions. As a result of this project, As a result of this process, daily maps of Tmax and Tmin for Tuscany for the year 2022 have been produced.
+		</ul>
 		Tuscany use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4e5e65ba-eeb6-41fd-9e3e-6c578ed76d66%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252259565&web=1"  target="_blank">PPT</a><br>
 		<span style="color:blue"> Francesco Sera UNIFI </span></li>
 		<li>Estimating air pollution concentration in urban areas<br>
