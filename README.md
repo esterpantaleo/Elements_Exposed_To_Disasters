@@ -24,6 +24,7 @@
 	<b>Buildings</b>
 	<ul>
 		<li> Assessing building damage<br>
+		Building damage assessment involves evaluating the potential or actual damage to structures due to various hazards. The combination of hazard and vulnerability models allows for risk assessment, which estimates the expected damage to buildings due to earthquakes.<br>
 		<span style="color:blue"> ENEA </span></li>
 		<li> Extracting key features of buildings from satellite data<br>
 		Through deep learning techniques, satellite data can leveraged to extract key features of buildings, including their size, shape, function, and spatial distribution. This enables high-precision assessments of urban structures, supporting a range of applications from urban planning and development to disaster response and energy management. By automating the feature extraction process, the integration of deep learning reduces the time and cost associated with manual mapping, making it possible to analyze large, complex datasets in near real-time.<br>
@@ -34,7 +35,10 @@
 		Sibari (CS) and Metaponto (MT) use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B30293f2f-7066-498b-af21-efa262703e53%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252108441&web=1" target="_blank">PPT</a><br>
 		<span style="color:blue"> Roberto Bellotti UNIBA </span></li>
    	</ul></li>
-	<b> Roads, bridges and transportation systems</b>
+	<b> Roads, bridges and transportation systems</b><br>
+	Transportation systems are essential for industrial production, and economic stability, with bridges and viaducts playing a crucial role in transportation networks. 
+	However, aging bridges present a significant challenge for urban resilience, requiring continuous monitoring and proper maintenance to ensure their durability, efficiency, and safety. 
+	Effective bridge classification and structural health monitoring are therefore vital for timely interventions, risk mitigation, and long-term preservation.
 	<ul>
 		<li>Classifying bridges<br>
 		BridgesClassification - <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
@@ -43,7 +47,10 @@
 		<span style="color:blue">ENEA</span> <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
 		<span style="color:blue">ENEA</span> </li>
 	</ul>
-	<b> Utilities </b>
+	<b> Utilities </b><br>
+	Power and water distribution networks ensure the continuous supply of electricity and clean water to households, industries, and critical services. 
+	Strengthening their resilience requires enhancing their capacity to withstand disruptions, recover quickly, and minimize service interruptions and economic losses. 
+	This can be achieved through real-time monitoring, rapid response strategies, and the integration of distribution network data, mathematical models, and data-driven analytics.
 	<ul> 
 		<li>Water supply systems<br>
 		QuakeSimFlow - Assessing how water supply systems respond to earthquakes and other natural disasters, ensuring continuous supply in times of crisis. <br><a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EdZDr_qgmG9Nl4OMl8m1B4kBXO0-4Aqk21b7Gb9ODtbmNw?e=bhK6qN"" target="_blank">PPT</a> <br> <span style="color:blue"> ENEA</span> </li>  
@@ -71,10 +78,20 @@
 
 <details>
 	<summary><img src="./icons/church.svg"><space><b>Cultural Heritage</b></summary>
-	The preservation of historical heritage is a key aspect ... Advanced techniques like sensor data mining and machine learning can be used to monitor and maintain the structural integrity of historical buildings and infrastructure. By analyzing historical monitoring data, these technologies can predict the structural behavior of a critical historical building, ensuring its long-term stability. <br>
-	Brunelleschi Dome use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B16295ca5-5a64-4920-a908-c7a71646f5c5%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251341507&web=1" target="_blank">PPT</a><br>
+	The preservation of historical heritage is essential to protecting cultural and architectural legacy. Advanced techniques like sensor data mining and machine learning can be used to monitor and maintain the structural integrity of historical buildings and infrastructure. By analyzing historical monitoring data, these technologies can predict the structural behavior of a critical historical building, ensuring its long-term stability. <br>
+	<ul>
+	<li>Brunelleschi's Dome case<br>
+	Long-term project aimed at monitoring the stability of the monument and predicting its future response to distressing phenomena.
+	This study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and
+  explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
+  <ul> 
+  <li> Academic impact: first effort to apply time series models (ARIMA, VAR, Impulse Response and Transfer Functions) to static SHM 
+  <li> Economic impact: preventing financial losses associated with structural failures
+  <li> Social impact: scalable monitoring approach to safeguard cultural heritage using rigorous statistical methods.
+  </ul>
+  <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B16295ca5-5a64-4920-a908-c7a71646f5c5%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251341507&web=1" target="_blank">PPT</a><br>
 	<span style="color:blue">Fiammetta Menchetti UNIFI </span></li>
-   
+  </ul> 
 </details>
 
 <details>
