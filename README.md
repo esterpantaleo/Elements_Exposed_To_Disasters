@@ -57,13 +57,6 @@
                 <li>The overarching objective of this analysis is to deepen our understanding of the road network's resilience amidst various challenges and to devise pragmatic strategies for fortifying its strength and durability. Through meticulous examination and analysis, this study endeavors to contribute to the enhancement of Italy's critical infrastructures, ensuring their capacity to withstand and recover from adversities effectively. It focuses on the national road network in relation to environmental hazards, accounting for the mobility flux between Italian cities. The project includes constructing a high-resolution road network, associating municipalities with the nearest road nodes, and transforming the network into a weighted graph based on ISTAT mobility matrix values. <br>Apulia use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B61c153a7-7d8f-4d39-834e-7e696e498849%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251557098&web=1" target="_blank">PPT</a><br>
                 <span style="color:blue">Roberto Bellotti UNIBA</span></li>
         </ul>
-
-
-
-
-
-
-	</ul>
 	<b> Utilities </b><br>
 	Power and water distribution networks ensure the continuous supply of electricity and clean water to households, industries, and critical services. 
 	Strengthening their resilience requires enhancing their capacity to withstand disruptions, recover quickly, and minimize service interruptions and economic losses. 
