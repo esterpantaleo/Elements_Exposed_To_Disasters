@@ -127,11 +127,18 @@
 		<summary>Brunelleschi's Dome case</summary>
 		Long-term project aimed at monitoring the stability of the monument and predicting its future response to distressing phenomena.
 		This study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
-  		<ul> 
-  			<li> Academic impact: first effort to apply time series models (ARIMA, VAR, Impulse Response and Transfer Functions) to static SHM 
-  			<li> Economic impact: preventing financial losses associated with structural failures
-			<li> Social impact: scalable monitoring approach to safeguard cultural heritage using rigorous statistical methods.
-  		</ul>
+  		<details style="margin-left: 40px;">
+  			<summary> Academic impact</summary>
+			First effort to apply time series models (ARIMA, VAR, Impulse Response and Transfer Functions) to static SHM 
+  		</details>
+		<details style="margin-left: 40px;">
+			<summary> Economic impact</summary>
+			Preventing financial losses associated with structural failures
+		</details>
+		<details style="margin-left: 40px;">
+			<summary> Social impact</summary>
+			Scalable monitoring approach to safeguard cultural heritage using rigorous statistical methods.
+  		</details>
   		<a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B16295ca5-5a64-4920-a908-c7a71646f5c5%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251341507&web=1" target="_blank">PPT</a><br>
 		<span style="color:blue">Fiammetta Menchetti UNIFI </span></li> 
 	</details>
@@ -144,15 +151,16 @@
 		The sustainable management of land use plays a significant role in urban planning, influencing how land is allocated for residential, commercial, industrial, and recreational purposes. 
 		<details style="margin-left: 40px;">
 			<summary>Monitoring crop health</b></summary>
-			Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
-<span style="color:blue">Roberto Bellotti UNIBA </span></li>
+			Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>
+			BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
+			<span style="color:blue">Roberto Bellotti UNIBA </span>
 		</details>
 		<details style="margin-left: 40px;">
 			<summary>Vulnerability of crop yield to short-term climate fluctuations</b></summary>
 			The sensitivity of the agricultural production system to short- and long-term climate variations significantly affects the availability and prices of food resources, raising relevant issues of sustainability and food security. 
-		To evaluate the vulnerability of crop yield to short-term climate fluctuations and to determine whether it changes over time, UNIAQ conducted a statistical analysis focusing on main crops in the Abruzzo region (central Italy), as case studies, such as wheat, olive and grape.<br>
-		Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
-<span style="color:blue"> Marco Tallini UNIAQ </span>
+			To evaluate the vulnerability of crop yield to short-term climate fluctuations and to determine whether it changes over time, UNIAQ conducted a statistical analysis focusing on main crops in the Abruzzo region (central Italy), as case studies, such as wheat, olive and grape.<br>
+			Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
+			<span style="color:blue"> Marco Tallini UNIAQ </span>
 		</details>
 	</details>
 </details>
