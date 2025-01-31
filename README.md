@@ -106,7 +106,7 @@
 	</ul>
 </details>
 
-<-- <details>
+<!-- <details>
 	<summary><b>Environment</b><img src="./icons/crop.svg"></summary> <b>Damage to ecosystems (forests, wetlands, oceans)</b><br>
  	<b>Pollution and contamination of water, air, soil</b><br>
 	<b>Habitat destruction for wildlife</b>
