@@ -88,7 +88,8 @@
 		<details style="margin-left: 40px;">
 			<summary>Model of traffic congestion</summary>
 			This project develops numerical models that simulate traffic congestion and evacuation scenarios on road networks. It uses advanced algorithms (like Chebyshev polynomials) to predict and manage traffic flow during emergencies, improving evacuation efficiency in urban areas. <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B0cdd2a6f-743b-4c20-9df4-6c977a84a3a3%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251635393&web=1" target="_blank">PPT</a><br>
-			<span style="color:blue">Sabrina Francesca Pellegrino POLIBA<span>
+			<span style="color:blue">Sabrina Francesca Pellegrino POLIBA<span><br>
+			<small><span style="color:green"> model &#8226; monitoring, environmental impact</span></small>
 		</details>
 		<details style="margin-left: 40px;">
 			<summary>Resilience of road networks</summary>
