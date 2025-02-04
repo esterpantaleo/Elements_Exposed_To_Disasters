@@ -33,8 +33,9 @@
 			<summary>Social Impact</summary> 
 			Addressing UN SDG 3.9 (By 2030, substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution and contamination) and 11.6 (Reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality).
    		</details>			
-		Apulia use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdb552b9e-4d53-4080-827c-86b44c9c4516%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252176454&web=1"  target="_blank">PPT</a><br>
-		<span style="color:blue"> Roberto Bellotti UNIBA </span></li>
+		Use case: Italy @1km & @300m <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bdb552b9e-4d53-4080-827c-86b44c9c4516%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252176454&web=1"  target="_blank">PPT</a><br>
+		<span style="color:blue"> Roberto Bellotti UNIBA </span><br>
+	<small><span style="color:green">model, database &#8226; monitoring, socio-economic-environmental impact</span></small><br>
 	</details>
 </details>
 
@@ -45,34 +46,44 @@
 		<details style="margin-left: 20px;">
 			<summary>Assessing building damage</summary>
 			Building damage assessment involves evaluating the potential or actual damage to structures due to various hazards. The combination of hazard and vulnerability models allows for risk assessment, which estimates the expected damage to buildings due to earthquakes.<br>
-			<span style="color:blue"> ENEA </span>
+			<span style="color:blue">Alberto Tofani ENEA </span>
 		</details>	
 		<details style="margin-left: 20px;">
 			<summary>Extracting key features of buildings from satellite data</summary>
 			Through deep learning techniques, satellite data can leveraged to extract key features of buildings, including their size, shape, function, and spatial distribution. This enables high-precision assessments of urban structures, supporting a range of applications from urban planning and development to disaster response and energy management. By automating the feature extraction process, the integration of deep learning reduces the time and cost associated with manual mapping, making it possible to analyze large, complex datasets in near real-time.<br>
 			<a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B1e60f668-b1c4-4ada-b67e-867e8cb78b6f%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252388487&web=1" target="_blank">PPT</a><br>
-			<span style="color:blue"> Roberto Bellotti UNIBA </span>
-		</details>
-		<details style="margin-left: 20px;">
-			<summary>Monitoring subsidence or uplifting of coastal shores</summary>
-			This project proposes a workflow that effectively outlines the presence of both subsidence and uplifting. These phenomena deserve continuous monitoring, both for environmental and infrastructural purposes. Using persistent interferometry collected from satellites and clustering algorithms we highlight the presence of homogeneous patterns using an  hypothesis testing procedure to evaluate and establish the presence of significant local spatial correlations (the LISA method). The designed workflow ensures the retrieval of homogeneous clusters and a reliable anomaly detection. <br>
-			Sibari (CS) and Metaponto (MT) use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B30293f2f-7066-498b-af21-efa262703e53%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252108441&web=1" target="_blank">PPT</a><br>
-			<span style="color:blue"> Roberto Bellotti UNIBA </span>
+			<span style="color:blue"> Roberto Bellotti UNIBA </span><br>
+			<small><span style="color:green"> model, database </span></small>
 		</details>
 	</details>
 	<details style="margin-left: 20px;">
-		<summary><b> Roads, bridges and transportation systems</b></summary>
+		<summary><b>Coastal shores</b></summary>
+		<details style="margin-left: 20px;">
+			<summary>Monitoring subsidence or uplifting of coastal shores</summary>
+				This project proposes a workflow that effectively outlines the presence of both subsidence and uplifting. These phenomena deserve continuous monitoring, both for environmental and infrastructural purposes. Using persistent interferometry collected from satellites and clustering algorithms we highlight the presence of homogeneous patterns using an  hypothesis testing procedure to evaluate and establish the presence of significant local spatial correlations (the LISA method). The designed workflow ensures the retrieval of homogeneous clusters and a reliable anomaly detection. <br>
+				Sibari (CS) and Metaponto (MT) use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B30293f2f-7066-498b-af21-efa262703e53%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738252108441&web=1" target="_blank">PPT</a><br>
+				<span style="color:blue"> Roberto Bellotti UNIBA </span><br>
+				<small><span style="color:green"> model  &#8226; landslides &#8226; hazard </span></small>
+			</details>
+			<details style="margin-left: 20px;">
+				<summary>Coastal Evolution Impact</summary>
+				case study: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYzqpgBewMxNsGASWcfSMYgBBxDX4KnJBBKG8xjbDn0AGQ?e=Genm4U" target="_blank">PPT</a><br>
+				<span style="color:blue">Alberto Tofani ENEA </span><br>
+				<small><span style="color:green"> model  &#8226 climate change &#8226; vulnerability, socio-economic-environmental impact </span></small>
+		</details>
+	</details>
+	<details style="margin-left: 20px;">
+		<summary><b>Roads, bridges and transportation systems</b></summary>
 		Transportation systems are essential for industrial production, and economic stability, with bridges and viaducts playing a crucial role in transportation networks. However, aging bridges present a significant challenge for urban resilience, requiring continuous monitoring and proper maintenance to ensure their durability, efficiency, and safety. Effective bridge classification and structural health monitoring are therefore vital for timely interventions, risk mitigation, and long-term preservation.
 		<details style="margin-left: 40px;">
 			<summary>Classifying bridges</summary>
 			BridgesClassification - <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
-			<span style="color:blue">ENEA </span>
+			<span style="color:blue">Alberto Tofani ENEA </span>
 		</details>
 		<details style="margin-left: 40px;">
 			<summary>Monitoring bridges</summary> 
 			StrSalus - Bridge monitoring using sensor data to predict and prevent potential structural failures in key infrastructure. 
-			<span style="color:blue">ENEA</span> <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a><br>
-			<span style="color:blue">ENEA</span> </li>
+			<span style="color:blue">Alberto Tofani ENEA</span> <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EWaW7G0nvVhCtQzYR8W0I6cBdV1p60eY8C-FJ3EWJt-QXQ?e=H2E5g9" target="_blank">PPT</a>
 		</details>
 		<details style="margin-left: 40px;">
 			<summary>Model of traffic congestion</summary>
@@ -86,19 +97,19 @@
 		</details>
 	</details>
 	<details style="margin-left: 20px;">
-		<summary><b> Utilities </b></summary>
+		<summary><b>Utilities </b></summary>
 		Power and water distribution networks ensure the continuous supply of electricity and clean water to households, industries, and critical services. 
 		Strengthening their resilience requires enhancing their capacity to withstand disruptions, recover quickly, and minimize service interruptions and economic losses. 
 		This can be achieved through real-time monitoring, rapid response strategies, and the integration of distribution network data, mathematical models, and data-driven analytics.
 		<details style="margin-left: 40px;"> 
 			<summary>Water supply systems</summary>
-			QuakeSimFlow - Assessing how water supply systems respond to earthquakes and other natural disasters, ensuring continuous supply in times of crisis. <br><a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EdZDr_qgmG9Nl4OMl8m1B4kBXO0-4Aqk21b7Gb9ODtbmNw?e=bhK6qN"" target="_blank">PPT</a> <br> <span style="color:blue"> ENEA</span> 
+			QuakeSimFlow - Assessing how water supply systems respond to earthquakes and other natural disasters, ensuring continuous supply in times of crisis. <br><a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EdZDr_qgmG9Nl4OMl8m1B4kBXO0-4Aqk21b7Gb9ODtbmNw?e=bhK6qN"" target="_blank">PPT</a> <br> <span style="color:blue">Alberto Tofani ENEA</span> 
 		</details>
 		<details style="margin-left: 40px;"> 
 			<summary>Power distribution networks</summary>
  			recsim - Simulating the repair sequence for large-scale electrical grids, helping Distribution System Operators (DSOs) restore service after failures. This tool optimizes the repair process using mathematical models for parallel scheduling.
       		<a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B90ccb117-4f8d-44d2-8c40-8767d0be7441%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251725510&web=1" target="_blank">PPT</a> <br> 
-			<span style="color:blue"> ENEA</span>
+			<span style="color:blue">Alberto Tofani ENEA</span>
 		</details>
 		<details style="margin-left: 40px;"> 
 			<summary>Resilience of the Italian National Transmission Grid</summary>
@@ -114,7 +125,8 @@
 			<details style="margin-left: 60px;">
 				<summary>Social Impact</summary> 
 				Secured energy supply for vulnerable communities facing extreme climatic events. 
-				<span style="color:blue">ENEA, Roberto Bellotti UNIBA </span>
+			</details>
+				<span style="color:blue">Alberto Tofani ENEA, Roberto Bellotti UNIBA </span>
 			</details>
 		</details>
 	</details>
@@ -124,7 +136,7 @@
 	<summary><img src="./icons/church.svg"><space><b>Cultural Heritage</b></summary>
 	The preservation of historical heritage is essential to protecting cultural and architectural legacy. Advanced techniques like sensor data mining and machine learning can be used to monitor and maintain the structural integrity of historical buildings and infrastructure. By analyzing historical monitoring data, these technologies can predict the structural behavior of a critical historical building, ensuring its long-term stability. <br>
 	<details style="margin-left: 20px;">
-		<summary>Brunelleschi's Dome case</summary>
+		<summary>Brunelleschi's Dome</summary>
 		Long-term project aimed at monitoring the stability of the monument and predicting its future response to distressing phenomena.
 		This study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
   		<details style="margin-left: 40px;">
@@ -150,17 +162,20 @@
 		<summary><b>Damage of the agricultural industry</b></summary>
 		The sustainable management of land use plays a significant role in urban planning, influencing how land is allocated for residential, commercial, industrial, and recreational purposes. 
 		<details style="margin-left: 40px;">
-			<summary>Monitoring crop health</b></summary>
+			<summary>Land use land cover change detection</b></summary>
 			Researchers are exploring the use of AI to develop automated pipelines for land-use classification, with applications ranging from precision agriculture (e.g., monitoring crop health, such as olives and grapes) to addressing environmental issues like desertification and urbanization. AI-powered tools are being developed to monitor land-use patterns and predict their environmental impacts, helping to guide sustainable development practices.  <br>
 			BAT province use case: <a href="https://unibari.sharepoint.com/:p:/r/sites/CN-HPCspoke5/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Be3ac1610-975f-4886-b7b0-ed9c77dffe51%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1738251246285&web=1 target="_blank">PPT</a> <br>
-			<span style="color:blue">Roberto Bellotti UNIBA </span>
+			<span style="color:blue">Roberto Bellotti UNIBA </span><br>
+			<small><span style="color:green"> model, database  &#8226; exposure</span></small>
 		</details>
 		<details style="margin-left: 40px;">
-			<summary>Vulnerability of crop yield to short-term climate fluctuations</b></summary>
+			<summary>Crops vs Climatic Variations</b></summary>
 			The sensitivity of the agricultural production system to short- and long-term climate variations significantly affects the availability and prices of food resources, raising relevant issues of sustainability and food security. 
-			To evaluate the vulnerability of crop yield to short-term climate fluctuations and to determine whether it changes over time, UNIAQ conducted a statistical analysis focusing on main crops in the Abruzzo region (central Italy), as case studies, such as wheat, olive and grape.<br>
-			Abruzzo use case: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
-			<span style="color:blue"> Marco Tallini UNIAQ </span>
+			To evaluate the vulnerability of crop yield to short-term climate fluctuations and to determine whether it changes over time, UNIVAQ conducted a statistical analysis focusing on main crops in the Abruzzo region (central Italy), as case studies, such as wheat, olive and grape.<br>
+			Abruzzo case study: <a href="https://unibari.sharepoint.com/:p:/s/CN-HPCspoke5/EYO-LxxZYR1NiXiSfOINx3UBmsbHz7CqXQOcKwz-jhslvQ?e=tOAKIF" target="_blank">PPT</a><br>
+			Po plain case study<br>
+			<span style="color:blue"> Marco Tallini UNIVAQ </span><br>
+			<small><span style="color:green"> GIS, multi-parameter database, model, tool  &#8226; climatic variations, extreme events &#8226; agrometeorology, climatic analysis </span></small>
 		</details>
 	</details>
 </details>
