@@ -139,10 +139,10 @@
 	<details style="margin-left: 20px;">
 		<summary>Brunelleschi's Dome</summary>
 		Long-term project aimed at monitoring the stability of the monument and predicting its future response to distressing phenomena.
-		This study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
+		A first study apply machine learning tools to unveil hidden patterns and correlations that would reveal the structural behaviour of the Dome as a whole and of its main parts. A second study investigates the impact of temperature, humidity and earthquakes on the evolution of the Brunelleschi's Dome cracks and explores the interrelations among neighboring cracks. It also examines the dynamic response of cracks to exogenous thermal shocks. 
   		<details style="margin-left: 40px;">
   			<summary> Academic impact</summary>
-			First effort to apply time series models (ARIMA, VAR, Impulse Response and Transfer Functions) to static SHM 
+			First effort to apply machine learning techniques and time series models (ARIMA, VAR, Impulse Response and Transfer Functions) for SHM 
   		</details>
 		<details style="margin-left: 40px;">
 			<summary> Economic impact</summary>
